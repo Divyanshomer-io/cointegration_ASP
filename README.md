@@ -57,10 +57,6 @@ Alternatively, thresholds can be optimized by maximizing the Sharpe ratio:
 
 ### 7. **Backtesting and Evaluation**
 Portfolio performance is tracked with:
-- **CAGR** (Compound Annual Growth Rate):  
-  \(
-  \text{CAGR} = \left( \frac{V_{\text{final}}}{V_{\text{start}}} \right)^{\frac{252}{\text{trading days}}} - 1
-  \)
 - **Max Drawdown**
 - **Sharpe Ratio**
 
