@@ -3,7 +3,6 @@
 This repository implements a complete **market-neutral pairs trading strategy** using:
 - Engle–Granger cointegration,
 - Augmented Dickey-Fuller (ADF) stationarity testing,
-- Ornstein–Uhlenbeck (OU) mean-reversion modeling, and
 - Data-driven quantile-based trading thresholds.
 
 The project applies stochastic-process theory to **Indian pharmaceutical equities**, integrating rigorous mathematical modeling with practical trading signal engineering and backtesting.
