@@ -185,14 +185,9 @@ Steps followed:
 ---
 ## 7. Repository Structure
 
-.
-├── ASP_cointegration.ipynb # Full analysis, modeling, and backtests
-├── Technical-Report.docx # Academic writeup
-├── ASP-assignment_Cointegration.pdf # Reference PDF
-└── README.md # Project documentation
-
-yaml
-Copy code
+- ASP_cointegration.ipynb # Full analysis, modeling, and backtests
+- ASP-assignment_Cointegration.pdf # Reference PDF
+- README.md # Project documentation
 
 ---
 
