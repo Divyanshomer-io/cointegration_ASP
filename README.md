@@ -219,5 +219,4 @@ It serves as an educational as well as practical reference for financial enginee
 
 ---
 
-## 7. Repository Structure
 
