@@ -242,5 +242,3 @@ It serves as both an educational and practical reference for financial engineeri
 
 ---
 
-## 7. Repository Structure
-
