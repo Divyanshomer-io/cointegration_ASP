@@ -26,10 +26,12 @@ This project aims to:
 
 ### 2.1 Random Walk Model for Individual Prices
 Asset prices are assumed to follow:
-\[
+
+$$
 P_t = P_{t-1} + \varepsilon_t
-\]
-where \( \varepsilon_t \) is i.i.d noise.  
+$$
+
+where \( \varepsilon_t \) is i.i.d. noise.
 This motivates searching for **stationary combinations**, not stationary prices.
 
 ---
